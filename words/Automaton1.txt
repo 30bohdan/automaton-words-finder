@@ -1,0 +1,19 @@
+no words for length 3
+no words for length 4
+no words for length 5
+no words for length 6
+no words for length 7
+no words for length 8
+no words for length 9
+no words for length 10
+WordLength=11
+word = 21221133322
+groupElement = 422343433144343241442412232421113444333432241214442122311213112141121433332211114344423434142121434333
+WordLength=12
+word = 131313231222
+groupElement = 214141314214113312
+WordLength=13
+word = 3121323312113
+groupElement = 1111244244444434433433333321121111114432343434211211
+no words for length 14
+no words for length 15
